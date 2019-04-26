@@ -1,0 +1,1347 @@
+1556030318143	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.9nVpf6w779IX"
+1556030318758	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556030318758	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556030318758	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556030321263	Marionette	INFO	Listening on port 42611
+1556030321366	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 24021, Gecko_IOThread] WARNING: pipe error (80): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 24021, Gecko_IOThread] WARNING: pipe error (98): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1556030324702	Marionette	INFO	Stopped listening on port 42611
+1556030399945	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.pqFNh9Fv4ZJj"
+1556030400237	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556030400237	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556030400237	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556030402061	Marionette	INFO	Listening on port 40735
+1556030402149	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://music.taihe.com/artist/7994, line 1895: SyntaxError: 09 is not a legal ECMA-262 octal constant
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3500BB,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xA70006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 24504, Gecko_IOThread] WARNING: pipe error (80): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 24504, Gecko_IOThread] WARNING: pipe error (97): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1556030407183	Marionette	INFO	Stopped listening on port 40735
+1556030776778	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.MYlw7ngk2NDd"
+1556030777012	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556030777013	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556030777013	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556030778712	Marionette	INFO	Listening on port 40805
+1556030778786	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://music.taihe.com/artist/7994, line 1895: SyntaxError: 09 is not a legal ECMA-262 octal constant
+[Parent 25012, Gecko_IOThread] WARNING: pipe error (80): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 61: TypeError: this.mm.content is null
+1556030785463	Marionette	INFO	Stopped listening on port 40805
+1556030825037	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.4U8TAC3GByVt"
+1556030825285	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556030825285	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556030825285	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556030827065	Marionette	INFO	Listening on port 44173
+1556030827142	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://music.taihe.com/artist/7994, line 1895: SyntaxError: 09 is not a legal ECMA-262 octal constant
+[Parent 25368, Gecko_IOThread] WARNING: pipe error (88): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 25368, Gecko_IOThread] WARNING: pipe error (80): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1556030835115	Marionette	INFO	Stopped listening on port 44173
+1556030903684	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.zi36NdUNjbFE"
+1556030903927	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556030903927	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556030903927	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556030905694	Marionette	INFO	Listening on port 39097
+1556030905791	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 25734, Gecko_IOThread] WARNING: pipe error (80): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 25734, Gecko_IOThread] WARNING: pipe error (101): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1556030919838	Marionette	INFO	Stopped listening on port 39097
+1556031011512	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.xdM9ElGWowBw"
+1556031011753	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556031011753	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556031011753	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556031013587	Marionette	INFO	Listening on port 35339
+1556031013619	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 26096, Gecko_IOThread] WARNING: pipe error (80): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 26096, Gecko_IOThread] WARNING: pipe error (81): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1556031034922	Marionette	INFO	Stopped listening on port 35339
+1556031222637	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.eaKmS9NGRoCg"
+1556031222872	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556031222873	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556031222873	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556031224569	Marionette	INFO	Listening on port 44519
+1556031224643	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 26554, Gecko_IOThread] WARNING: pipe error (97): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 26554, Gecko_IOThread] WARNING: pipe error (80): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1556031232541	Marionette	INFO	Stopped listening on port 44519
+1556031377858	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.tDwpj7bVHwRf"
+1556031378091	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556031378091	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556031378091	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556031379908	Marionette	INFO	Listening on port 39895
+1556031379972	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+[Parent 26965, Gecko_IOThread] WARNING: pipe error (65): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 26965, Gecko_IOThread] WARNING: pipe error (80): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1556031392948	Marionette	INFO	Stopped listening on port 39895
+1556068722290	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.GMeZEL5PE3Lb"
+1556068722524	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556068722524	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556068722524	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556068724448	Marionette	INFO	Listening on port 32909
+1556068724495	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/nsUrlClassifierListManager.js, line 597: TypeError: this.tablesData[table] is undefined
+[Parent 3367, Gecko_IOThread] WARNING: pipe error (83): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 3367, Gecko_IOThread] WARNING: pipe error (80): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1556068728539	Marionette	INFO	Stopped listening on port 32909
+1556068853466	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.8gpik05vLXcf"
+1556068853721	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556068853721	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556068853721	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556068855648	Marionette	INFO	Listening on port 45631
+1556068855672	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+[Parent 3737, Gecko_IOThread] WARNING: pipe error (97): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 3737, Gecko_IOThread] WARNING: pipe error (80): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1556068861126	Marionette	INFO	Stopped listening on port 45631
+1556068900243	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ESpBDo6aWMa1"
+1556068900482	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556068900483	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556068900483	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556068902118	Marionette	INFO	Listening on port 37927
+1556068902149	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1556068902946	Marionette	INFO	Stopped listening on port 37927
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 23: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+JavaScript error: resource://gre/modules/ExtensionSettingsStore.jsm, line 103: Error: The ExtensionSettingsStore was accessed before the initialize promise resolved.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 834: Error: Connection is not open.
+console.error: 
+  [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIAppShellService.hiddenDOMWindow]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/DownloadsManager.jsm :: init :: line 44"  data: no]: init@resource://activity-stream/lib/DownloadsManager.jsm:44:5
+postInit@resource://activity-stream/lib/HighlightsFeed.jsm:60:5
+handler@resource://gre/modules/EventEmitter.jsm:94:11
+emit@resource://gre/modules/EventEmitter.jsm:149:11
+init@resource://activity-stream/lib/SectionsManager.jsm:119:5
+observe@resource://gre/modules/AsyncShutdown.jsm:533:9
+
+1556069076676	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.kb21fr5MBA6p"
+1556069076912	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556069076913	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556069076913	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556069078765	Marionette	INFO	Listening on port 41237
+1556069078788	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://music.taihe.com/artist/7994?pst=sug, line 1895: SyntaxError: 09 is not a legal ECMA-262 octal constant
+1556069080906	Marionette	INFO	Stopped listening on port 41237
+1556069244439	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.OcAMeWCDBdyV"
+1556069244678	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556069244678	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556069244678	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556069246584	Marionette	INFO	Listening on port 45273
+1556069246644	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://music.taihe.com/artist/7994?pst=sug, line 1895: SyntaxError: 09 is not a legal ECMA-262 octal constant
+1556069248830	Marionette	INFO	Stopped listening on port 45273
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 61: TypeError: this.mm.content is null
+1556069479842	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.j0GwwhBUy5fS"
+1556069480071	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556069480071	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556069480071	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556069481816	Marionette	INFO	Listening on port 44695
+1556069481852	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://music.taihe.com/artist/7994?pst=sug, line 1895: SyntaxError: 09 is not a legal ECMA-262 octal constant
+[Parent 5488, Gecko_IOThread] WARNING: pipe error (80): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 5488, Gecko_IOThread] WARNING: pipe error (88): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1556069490636	Marionette	INFO	Stopped listening on port 44695
+1556069513025	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.UHCI0EHpYYvj"
+1556069513259	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556069513259	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556069513259	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556069515112	Marionette	INFO	Listening on port 43021
+1556069515135	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://music.taihe.com/artist/7994?pst=sug, line 1895: SyntaxError: 09 is not a legal ECMA-262 octal constant
+1556069519336	Marionette	INFO	Stopped listening on port 43021
+1556069561490	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.IedNnFn4zzsT"
+1556069561727	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556069561727	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556069561727	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556069563441	Marionette	INFO	Listening on port 34811
+1556069563497	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://music.taihe.com/artist/7994?pst=sug, line 1895: SyntaxError: 09 is not a legal ECMA-262 octal constant
+1556069564926	Marionette	INFO	Stopped listening on port 34811
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 23: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+console.error: 
+  [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIAppShellService.hiddenDOMWindow]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/DownloadsManager.jsm :: init :: line 44"  data: no]: init@resource://activity-stream/lib/DownloadsManager.jsm:44:5
+postInit@resource://activity-stream/lib/HighlightsFeed.jsm:60:5
+handler@resource://gre/modules/EventEmitter.jsm:94:11
+emit@resource://gre/modules/EventEmitter.jsm:149:11
+init@resource://activity-stream/lib/SectionsManager.jsm:119:5
+
+1556069744056	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.bkgu8dYH7ccV"
+1556069744300	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556069744300	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556069744300	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556069746241	Marionette	INFO	Listening on port 44885
+1556069746262	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://music.taihe.com/artist/7994?pst=sug, line 1895: SyntaxError: 09 is not a legal ECMA-262 octal constant
+1556069748414	Marionette	INFO	Stopped listening on port 44885
+1556069763074	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.9Kd3oYrmF6Hg"
+1556069763307	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556069763307	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556069763307	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556069765121	Marionette	INFO	Listening on port 34625
+1556069765179	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://music.taihe.com/artist/7994?pst=sug, line 1895: SyntaxError: 09 is not a legal ECMA-262 octal constant
+1556069773510	Marionette	INFO	Stopped listening on port 34625
+1556069806306	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.uuFZbC4XF4Yd"
+1556069806542	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556069806542	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556069806542	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556069808376	Marionette	INFO	Listening on port 46205
+1556069808413	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://music.taihe.com/artist/7994?pst=sug, line 1895: SyntaxError: 09 is not a legal ECMA-262 octal constant
+1556069812245	Marionette	INFO	Stopped listening on port 46205
+1556069861771	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.3Yv0NhJy1DxH"
+1556069862021	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556069862021	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556069862021	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556069863765	Marionette	INFO	Listening on port 44823
+1556069863785	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://music.taihe.com/artist/7994?pst=sug, line 1895: SyntaxError: 09 is not a legal ECMA-262 octal constant
+1556069867897	Marionette	INFO	Stopped listening on port 44823
+1556069951732	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.vyA9zyd1JmfG"
+1556069951977	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556069951977	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556069951977	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556069953889	Marionette	INFO	Listening on port 35233
+1556069953937	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://music.taihe.com/artist/7994?pst=sug, line 1895: SyntaxError: 09 is not a legal ECMA-262 octal constant
+1556069956393	Marionette	INFO	Stopped listening on port 35233
+[Parent 7971, Gecko_IOThread] WARNING: pipe error (80): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 7971, Gecko_IOThread] WARNING: pipe error (83): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1556070050215	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.dM29IVzJj1Ld"
+1556070050454	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556070050455	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556070050455	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556070052310	Marionette	INFO	Listening on port 42117
+1556070052327	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://music.taihe.com/artist/7994?pst=sug, line 1895: SyntaxError: 09 is not a legal ECMA-262 octal constant
+1556070055378	Marionette	INFO	Stopped listening on port 42117
+1556070097269	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ZwTWqUsbaDB0"
+1556070097524	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556070097525	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556070097525	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556070099271	Marionette	INFO	Listening on port 37999
+1556070099277	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://music.taihe.com/artist/7994?pst=sug, line 1895: SyntaxError: 09 is not a legal ECMA-262 octal constant
+1556070102502	Marionette	INFO	Stopped listening on port 37999
+1556070130652	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.g1RQGC9950hW"
+1556070130894	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556070130894	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556070130894	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556070132688	Marionette	INFO	Listening on port 33635
+1556070132762	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://music.taihe.com/artist/7994?pst=sug, line 1895: SyntaxError: 09 is not a legal ECMA-262 octal constant
+1556070136886	Marionette	INFO	Stopped listening on port 33635
+1556070301956	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.YKv9GmHX8h0M"
+1556070302197	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556070302197	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556070302198	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556070304067	Marionette	INFO	Listening on port 42449
+1556070304161	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://music.taihe.com/artist/7994?pst=sug, line 1895: SyntaxError: 09 is not a legal ECMA-262 octal constant
+1556070351551	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.5kBSCcdcIDVf"
+1556070351796	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556070351796	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556070351796	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556070353677	Marionette	INFO	Listening on port 36031
+1556070353757	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://music.taihe.com/artist/7994?pst=sug, line 1895: SyntaxError: 09 is not a legal ECMA-262 octal constant
+[Child 9653, Chrome_ChildThread] WARNING: pipe error (3): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 9472, Gecko_IOThread] WARNING: pipe error (80): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 9472, Gecko_IOThread] WARNING: pipe error (94): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1556070358152	Marionette	INFO	Stopped listening on port 42449
+[Parent 9804, Gecko_IOThread] WARNING: pipe error (65): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 9804, Gecko_IOThread] WARNING: pipe error (84): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1556070361284	Marionette	INFO	Stopped listening on port 36031
+1556070403117	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.LoxhdRMfE1A5"
+1556070403361	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556070403361	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556070403361	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556070405237	Marionette	INFO	Listening on port 39307
+1556070405323	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://music.taihe.com/artist/7994?pst=sug, line 1895: SyntaxError: 09 is not a legal ECMA-262 octal constant
+1556070407222	Marionette	INFO	Stopped listening on port 39307
+1556070515719	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.H1r4cgI88sYC"
+1556070515955	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556070515955	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556070515955	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556070517671	Marionette	INFO	Listening on port 42027
+1556070517726	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://music.taihe.com/artist/7994?pst=sug, line 1895: SyntaxError: 09 is not a legal ECMA-262 octal constant
+1556070519525	Marionette	INFO	Stopped listening on port 42027
+[Parent 10551, Gecko_IOThread] WARNING: pipe error (80): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 10551, Gecko_IOThread] WARNING: pipe error (86): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1556071022170	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.0Y4BRsx7DMnb"
+1556071022420	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556071022421	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556071022421	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556071024270	Marionette	INFO	Listening on port 41921
+1556071024277	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://music.taihe.com/artist/7994?pst=sug, line 1895: SyntaxError: 09 is not a legal ECMA-262 octal constant
+1556071026827	Marionette	INFO	Stopped listening on port 41921
+[Parent 11078, Gecko_IOThread] WARNING: pipe error (80): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 11078, Gecko_IOThread] WARNING: pipe error (83): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1556071288323	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.oLgNav2m4X7S"
+1556071288561	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556071288561	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556071288561	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556071290427	Marionette	INFO	Listening on port 44701
+1556071290434	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://music.taihe.com/artist/7994?pst=sug, line 1895: SyntaxError: 09 is not a legal ECMA-262 octal constant
+JavaScript warning: http://music.taihe.com/artist/7994?pst=sug, line 1896: SyntaxError: 09 is not a legal ECMA-262 octal constant
+1556071294380	Marionette	INFO	Stopped listening on port 44701
+[Parent 11569, Gecko_IOThread] WARNING: pipe error (80): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1556071309159	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.hBzKiYFg6C48"
+1556071309414	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556071309414	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556071309414	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556071311320	Marionette	INFO	Listening on port 45921
+1556071311364	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://music.taihe.com/artist/7994?pst=sug, line 1895: SyntaxError: 09 is not a legal ECMA-262 octal constant
+JavaScript warning: http://music.taihe.com/artist/7994?pst=sug, line 1896: SyntaxError: 08 is not a legal ECMA-262 octal constant
+1556071314476	Marionette	INFO	Stopped listening on port 45921
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 61: TypeError: this.mm.content is null
+1556071330687	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.y6rYWFRO4wGY"
+1556071330922	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556071330923	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556071330923	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556071332713	Marionette	INFO	Listening on port 42357
+1556071332797	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://music.taihe.com/artist/7994?pst=sug, line 1895: SyntaxError: 09 is not a legal ECMA-262 octal constant
+JavaScript warning: http://music.taihe.com/artist/7994?pst=sug, line 1896: SyntaxError: 09 is not a legal ECMA-262 octal constant
+1556071336835	Marionette	INFO	Stopped listening on port 42357
+[Parent 12231, Gecko_IOThread] WARNING: pipe error (80): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1556071366718	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.VUyUwNsv7TeB"
+1556071366973	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556071366973	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556071366973	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556071368792	Marionette	INFO	Listening on port 39533
+1556071368825	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://music.taihe.com/artist/7994?pst=sug, line 1895: SyntaxError: 09 is not a legal ECMA-262 octal constant
+JavaScript warning: http://music.taihe.com/artist/7994?pst=sug, line 1896: SyntaxError: 08 is not a legal ECMA-262 octal constant
+1556071567371	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.CnohOWthFDs8"
+1556071567624	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556071567624	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556071567625	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556071569597	Marionette	INFO	Listening on port 42893
+1556071569682	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://music.taihe.com/artist/7994?pst=sug, line 1895: SyntaxError: 09 is not a legal ECMA-262 octal constant
+JavaScript warning: http://music.taihe.com/artist/7994?pst=sug, line 1896: SyntaxError: 09 is not a legal ECMA-262 octal constant
+[Parent 13024, Gecko_IOThread] WARNING: pipe error (81): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 13024, Gecko_IOThread] WARNING: pipe error (80): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1556071578289	Marionette	INFO	Stopped listening on port 42893
+1556071670441	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.XGJVzhlWLYSn"
+1556071670672	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556071670672	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556071670672	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556071672352	Marionette	INFO	Listening on port 44673
+1556071672451	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://music.taihe.com/artist/7994?pst=sug, line 1895: SyntaxError: 09 is not a legal ECMA-262 octal constant
+JavaScript warning: http://music.taihe.com/artist/7994?pst=sug, line 1896: SyntaxError: 08 is not a legal ECMA-262 octal constant
+[Parent 13567, Gecko_IOThread] WARNING: pipe error (80): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1556071678378	Marionette	INFO	Stopped listening on port 44673
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1556071728472	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.yYQL65JjBZjS"
+1556071728706	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556071728706	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556071728706	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556071730455	Marionette	INFO	Listening on port 42895
+1556071730480	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://music.taihe.com/artist/7994?pst=sug, line 1895: SyntaxError: 09 is not a legal ECMA-262 octal constant
+JavaScript warning: http://music.taihe.com/artist/7994?pst=sug, line 1896: SyntaxError: 09 is not a legal ECMA-262 octal constant
+[Parent 14184, Gecko_IOThread] WARNING: pipe error (97): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 14184, Gecko_IOThread] WARNING: pipe error (80): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1556071738587	Marionette	INFO	Stopped listening on port 42895
+1556072151200	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.nz57loe3JlGx"
+1556072151433	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556072151433	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556072151433	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556072153291	Marionette	INFO	Listening on port 45391
+1556072153309	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://music.taihe.com/artist/7994?pst=sug, line 1895: SyntaxError: 08 is not a legal ECMA-262 octal constant
+JavaScript warning: http://music.taihe.com/artist/7994?pst=sug, line 1896: SyntaxError: 09 is not a legal ECMA-262 octal constant
+1556072156932	Marionette	INFO	Stopped listening on port 45391
+1556072162516	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.C2GhvgXhr1sy"
+1556072162749	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556072162749	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556072162749	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556072164517	Marionette	INFO	Listening on port 45127
+1556072164524	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 23: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+1556072166706	Marionette	INFO	Stopped listening on port 45127
+1556072179113	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.INwD8iKMkhgs"
+1556072179345	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556072179345	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556072179345	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556072181065	Marionette	INFO	Listening on port 33877
+1556072181118	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 16531, Gecko_IOThread] WARNING: pipe error (94): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 16531, Gecko_IOThread] WARNING: pipe error (80): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1556072184048	Marionette	INFO	Stopped listening on port 33877
+1556072332801	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.GhKM0HIrhVat"
+1556072333033	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556072333033	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556072333033	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556072334750	Marionette	INFO	Listening on port 44731
+1556072334815	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://music.taihe.com/artist/7994?pst=sug, line 1895: SyntaxError: 09 is not a legal ECMA-262 octal constant
+[Parent 16960, Gecko_IOThread] WARNING: pipe error (80): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 16960, Gecko_IOThread] WARNING: pipe error (86): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1556072339853	Marionette	INFO	Stopped listening on port 44731
+1556072444486	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.XHjoD3ymb3tk"
+1556072444716	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556072444716	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556072444716	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556072446610	Marionette	INFO	Listening on port 40771
+1556072446692	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://music.taihe.com/artist/7994?pst=sug, line 1895: SyntaxError: 09 is not a legal ECMA-262 octal constant
+[Parent 17340, Gecko_IOThread] WARNING: pipe error (80): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 17340, Gecko_IOThread] WARNING: pipe error (88): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1556072452428	Marionette	INFO	Stopped listening on port 40771
+1556072471389	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.cSZB7U89bkK6"
+1556072471621	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556072471621	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556072471621	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556072473314	Marionette	INFO	Listening on port 39821
+1556072473395	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://music.taihe.com/artist/7994?pst=sug, line 1895: SyntaxError: 09 is not a legal ECMA-262 octal constant
+1556072477505	Marionette	INFO	Stopped listening on port 39821
+1556072577787	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.1UNQ4sUKbT80"
+1556072578041	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556072578041	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556072578042	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556072579772	Marionette	INFO	Listening on port 36631
+1556072579798	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://music.taihe.com/artist/7994?pst=sug, line 1895: SyntaxError: 09 is not a legal ECMA-262 octal constant
+1556072582407	Marionette	INFO	Stopped listening on port 36631
+1556072596375	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.GiWd67vF90Wn"
+1556072596655	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556072596655	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556072596655	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556072598518	Marionette	INFO	Listening on port 38299
+1556072598580	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://music.taihe.com/artist/7994?pst=sug, line 1895: SyntaxError: 08 is not a legal ECMA-262 octal constant
+1556072600731	Marionette	INFO	Stopped listening on port 38299
+1556072609984	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.1nhuoS7FR6Kb"
+1556072610217	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556072610217	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556072610217	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556072612039	Marionette	INFO	Listening on port 39979
+1556072612090	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://music.taihe.com/artist/7994?pst=sug, line 1895: SyntaxError: 08 is not a legal ECMA-262 octal constant
+1556072616407	Marionette	INFO	Stopped listening on port 39979
+1556072880918	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.4SI9MhtLpu4q"
+1556072881149	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556072881149	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556072881149	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556072882992	Marionette	INFO	Listening on port 45533
+1556072883028	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://music.taihe.com/artist/7994?pst=sug, line 1895: SyntaxError: 08 is not a legal ECMA-262 octal constant
+1556072885054	Marionette	INFO	Stopped listening on port 45533
+1556072899063	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.LpxoDEVfPfoC"
+1556072899297	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556072899297	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556072899297	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556072901111	Marionette	INFO	Listening on port 40149
+1556072901171	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://music.taihe.com/artist/7994?pst=sug, line 1895: SyntaxError: 08 is not a legal ECMA-262 octal constant
+1556072904248	Marionette	INFO	Stopped listening on port 40149
+1556073046861	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.pkdOUy3v0RFu"
+1556073047123	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556073047123	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556073047124	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556073048847	Marionette	INFO	Listening on port 34295
+1556073048870	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://music.taihe.com/artist/7994?pst=sug, line 1895: SyntaxError: 08 is not a legal ECMA-262 octal constant
+1556073055054	Marionette	INFO	Stopped listening on port 34295
+1556073078150	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.bhY8XO8JXaDp"
+1556073078382	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556073078382	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556073078382	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556073080179	Marionette	INFO	Listening on port 46635
+1556073080259	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://music.taihe.com/artist/7994?pst=sug, line 1895: SyntaxError: 08 is not a legal ECMA-262 octal constant
+1556073081527	Marionette	INFO	Stopped listening on port 46635
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 23: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+JavaScript error: resource://gre/modules/ExtensionSettingsStore.jsm, line 103: Error: The ExtensionSettingsStore was accessed before the initialize promise resolved.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 834: Error: Connection is not open.
+console.error: 
+  [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIAppShellService.hiddenDOMWindow]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/DownloadsManager.jsm :: init :: line 44"  data: no]: init@resource://activity-stream/lib/DownloadsManager.jsm:44:5
+postInit@resource://activity-stream/lib/HighlightsFeed.jsm:60:5
+handler@resource://gre/modules/EventEmitter.jsm:94:11
+emit@resource://gre/modules/EventEmitter.jsm:149:11
+init@resource://activity-stream/lib/SectionsManager.jsm:119:5
+observe@resource://gre/modules/AsyncShutdown.jsm:533:9
+
+1556073091139	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Skg5SuUEWjlA"
+1556073091371	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556073091371	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556073091371	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556073093190	Marionette	INFO	Listening on port 33747
+1556073093245	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://music.taihe.com/artist/7994?pst=sug, line 1895: SyntaxError: 08 is not a legal ECMA-262 octal constant
+1556073095437	Marionette	INFO	Stopped listening on port 33747
+1556073330907	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.aSbktgPNQXr0"
+1556073331143	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556073331143	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556073331143	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556073332865	Marionette	INFO	Listening on port 36697
+1556073332912	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://music.taihe.com/artist/7994?pst=sug, line 1895: SyntaxError: 08 is not a legal ECMA-262 octal constant
+1556073337044	Marionette	INFO	Stopped listening on port 36697
+1556073682818	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.CM0YKtvxLA6A"
+1556073683057	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556073683057	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556073683057	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556073684908	Marionette	INFO	Listening on port 36029
+1556073684926	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://music.taihe.com/artist/7994?pst=sug, line 1895: SyntaxError: 08 is not a legal ECMA-262 octal constant
+[Parent 22380, Gecko_IOThread] WARNING: pipe error (88): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 22380, Gecko_IOThread] WARNING: pipe error (80): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1556073731820	Marionette	INFO	Stopped listening on port 36029
+[Parent 12562, Gecko_IOThread] WARNING: pipe error (80): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 12562, Gecko_IOThread] WARNING: pipe error (88): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1556073736373	Marionette	INFO	Stopped listening on port 39533
+1556073829230	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.2surW2mXUbuU"
+1556073829468	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556073829468	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556073829468	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556073831303	Marionette	INFO	Listening on port 46209
+1556073831337	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://music.taihe.com/artist/7994?pst=sug, line 1895: SyntaxError: 08 is not a legal ECMA-262 octal constant
+1556073837451	Marionette	INFO	Stopped listening on port 46209
+[Parent 22820, Gecko_IOThread] WARNING: pipe error (80): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1556073899685	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.gWuE5B1zcUAh"
+1556073899919	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556073899919	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556073899919	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556073901793	Marionette	INFO	Listening on port 43931
+1556073901891	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://music.taihe.com/artist/7994?pst=sug, line 1895: SyntaxError: 09 is not a legal ECMA-262 octal constant
+1556073931241	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.OrS8ZbHyCF0w"
+1556073931474	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556073931474	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556073931474	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556073933477	Marionette	INFO	Listening on port 38481
+1556073933570	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://music.taihe.com/artist/7994?pst=sug, line 1895: SyntaxError: 09 is not a legal ECMA-262 octal constant
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1556073995513	Marionette	INFO	Stopped listening on port 38481
+[Parent 23598, Gecko_IOThread] WARNING: pipe error (80): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1556074035559	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.QjBJFiU0XtZx"
+1556074035795	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556074035795	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556074035795	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556074037641	Marionette	INFO	Listening on port 45717
+1556074037665	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://music.taihe.com/artist/7994?pst=sug, line 1895: SyntaxError: 09 is not a legal ECMA-262 octal constant
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1556074100376	Marionette	INFO	Stopped listening on port 45717
+[Parent 23977, Gecko_IOThread] WARNING: pipe error (80): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1556074132369	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.NhnJm0JUWHFL"
+1556074132608	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556074132609	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556074132609	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556074134379	Marionette	INFO	Listening on port 46497
+1556074134475	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://music.taihe.com/artist/7994?pst=sug, line 1895: SyntaxError: 08 is not a legal ECMA-262 octal constant
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1556074198618	Marionette	INFO	Stopped listening on port 46497
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 24343, Gecko_IOThread] WARNING: pipe error (80): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1556074233201	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.YH7IJBgjNZlS"
+1556074233435	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556074233435	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556074233435	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556074235234	Marionette	INFO	Listening on port 46579
+1556074235306	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://music.taihe.com/artist/7994?pst=sug, line 1895: SyntaxError: 08 is not a legal ECMA-262 octal constant
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1556074295869	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.mo0x7qFx7p7D"
+1556074296104	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556074296104	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556074296104	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556074298141	Marionette	INFO	Listening on port 46389
+1556074298175	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://music.taihe.com/artist/7994?pst=sug, line 1895: SyntaxError: 08 is not a legal ECMA-262 octal constant
+[Parent 25075, Gecko_IOThread] WARNING: pipe error (94): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 25075, Gecko_IOThread] WARNING: pipe error (80): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1556074301966	Marionette	INFO	Stopped listening on port 46389
+1556074364802	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.CGiixt1ZxBKo"
+1556074365053	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556074365054	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556074365054	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556074366791	Marionette	INFO	Listening on port 36345
+1556074366809	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://music.taihe.com/artist/7994?pst=sug, line 1895: SyntaxError: 08 is not a legal ECMA-262 octal constant
+[Parent 25420, Gecko_IOThread] WARNING: pipe error (88): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 25420, Gecko_IOThread] WARNING: pipe error (80): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1556074374360	Marionette	INFO	Stopped listening on port 36345
+1556075751383	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.50Y2ivTvkSmp"
+1556075751635	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556075751635	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556075751635	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556075753595	Marionette	INFO	Listening on port 42635
+1556075753693	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://music.taihe.com/artist/7994?pst=sug, line 1895: SyntaxError: 08 is not a legal ECMA-262 octal constant
+JavaScript warning: http://music.taihe.com/artist/7994?pst=sug, line 1896: SyntaxError: 09 is not a legal ECMA-262 octal constant
+[Parent 23255, Gecko_IOThread] WARNING: pipe error (66): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 23255, Gecko_IOThread] WARNING: pipe error (80): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1556075759172	Marionette	INFO	Stopped listening on port 43931
+1556075859606	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.5PTkRztHxAFK"
+1556075859848	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556075859848	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556075859848	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556075861691	Marionette	INFO	Listening on port 38549
+1556075861714	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 26440, Gecko_IOThread] WARNING: pipe error (81): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 26440, Gecko_IOThread] WARNING: pipe error (80): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1556075868791	Marionette	INFO	Stopped listening on port 38549
+1556075910060	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.4c1DULhvd1Cf"
+1556075910320	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556075910321	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556075910321	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556075912092	Marionette	INFO	Listening on port 44975
+1556075912165	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 26783, Gecko_IOThread] WARNING: pipe error (97): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 26783, Gecko_IOThread] WARNING: pipe error (80): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1556075918662	Marionette	INFO	Stopped listening on port 44975
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1556077850746	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.3KOOtjA2wOM0"
+1556077851001	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556077851002	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556077851002	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556077852817	Marionette	INFO	Listening on port 37983
+1556077852851	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://music.taihe.com/artist/7994?pst=sug, line 1895: SyntaxError: 08 is not a legal ECMA-262 octal constant
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1556078765542	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.btv0eIkJsw3v"
+1556078765787	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556078765787	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556078765787	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556078767793	Marionette	INFO	Listening on port 46289
+1556078767851	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://music.taihe.com/artist/7994?pst=sug, line 1895: SyntaxError: 08 is not a legal ECMA-262 octal constant
+JavaScript warning: http://music.taihe.com/artist/7994?pst=sug, line 1896: SyntaxError: 08 is not a legal ECMA-262 octal constant
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 23: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+console.error: 
+  [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIAppShellService.hiddenDOMWindow]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/DownloadsManager.jsm :: init :: line 44"  data: no]: init@resource://activity-stream/lib/DownloadsManager.jsm:44:5
+postInit@resource://activity-stream/lib/HighlightsFeed.jsm:60:5
+handler@resource://gre/modules/EventEmitter.jsm:94:11
+emit@resource://gre/modules/EventEmitter.jsm:149:11
+init@resource://activity-stream/lib/SectionsManager.jsm:119:5
+
+1556078771271	Marionette	INFO	Stopped listening on port 46289
+1556078771683	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.f2j3XkXps0MY"
+1556078771917	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556078771917	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556078771917	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556078773615	Marionette	INFO	Listening on port 42091
+1556078773689	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://music.taihe.com/artist/7994?pst=sug, line 1895: SyntaxError: 08 is not a legal ECMA-262 octal constant
+JavaScript warning: http://music.taihe.com/artist/7994?pst=sug, line 1896: SyntaxError: 08 is not a legal ECMA-262 octal constant
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+[Parent 28487, Gecko_IOThread] WARNING: pipe error (72): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 28487, Gecko_IOThread] WARNING: pipe error (88): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1556078816224	Marionette	INFO	Stopped listening on port 42091
+1556079319927	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.IKMsSayygwPN"
+1556079320174	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556079320174	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556079320174	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556079321978	Marionette	INFO	Listening on port 35677
+1556079322032	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://music.taihe.com/artist/7994?pst=sug, line 1895: SyntaxError: 08 is not a legal ECMA-262 octal constant
+JavaScript warning: http://music.taihe.com/artist/7994?pst=sug, line 1896: SyntaxError: 09 is not a legal ECMA-262 octal constant
+1556079326737	Marionette	INFO	Stopped listening on port 35677
+1556079343762	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.fXfHmmLESRG8"
+1556079344014	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556079344015	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556079344015	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556079345856	Marionette	INFO	Listening on port 39929
+1556079345873	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://music.taihe.com/artist/7994?pst=sug, line 1895: SyntaxError: 08 is not a legal ECMA-262 octal constant
+JavaScript warning: http://music.taihe.com/artist/7994?pst=sug, line 1896: SyntaxError: 09 is not a legal ECMA-262 octal constant
+[Parent 29313, Gecko_IOThread] WARNING: pipe error (80): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 29313, Gecko_IOThread] WARNING: pipe error (83): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1556079349874	Marionette	INFO	Stopped listening on port 39929
+1556079409251	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.DguS7iLizFsC"
+1556079409488	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556079409488	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556079409488	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556079411398	Marionette	INFO	Listening on port 36465
+1556079411457	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://music.taihe.com/artist/7994?pst=sug, line 1895: SyntaxError: 08 is not a legal ECMA-262 octal constant
+[Parent 29676, Gecko_IOThread] WARNING: pipe error (72): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 29676, Gecko_IOThread] WARNING: pipe error (80): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1556079416346	Marionette	INFO	Stopped listening on port 36465
+1556079461971	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.7IjUV6Iv3o1A"
+1556079462208	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556079462208	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556079462208	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556079464057	Marionette	INFO	Listening on port 42201
+1556079464080	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://music.taihe.com/artist/7994?pst=sug, line 1895: SyntaxError: 08 is not a legal ECMA-262 octal constant
+1556079467208	Marionette	INFO	Stopped listening on port 42201
+1556079621817	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.8yezJ86oj3JO"
+1556079622056	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556079622056	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556079622056	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556079624009	Marionette	INFO	Listening on port 42519
+1556079624024	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://music.taihe.com/artist/7994?pst=sug, line 1895: SyntaxError: 08 is not a legal ECMA-262 octal constant
+[Parent 30448, Gecko_IOThread] WARNING: pipe error (81): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 30448, Gecko_IOThread] WARNING: pipe error (83): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1556079637899	Marionette	INFO	Stopped listening on port 42519
+1556079959978	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Hu9OSUX2IlcP"
+1556079960218	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556079960218	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556079960218	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556079962112	Marionette	INFO	Listening on port 38417
+1556079962187	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://music.taihe.com/artist/7994?pst=sug, line 1895: SyntaxError: 08 is not a legal ECMA-262 octal constant
+1556079967424	Marionette	INFO	Stopped listening on port 38417
+1556080110505	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.QrOWxauoBHnn"
+1556080110754	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556080110754	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556080110754	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556080112663	Marionette	INFO	Listening on port 35349
+1556080112718	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://music.taihe.com/artist/7994?pst=sug, line 1895: SyntaxError: 08 is not a legal ECMA-262 octal constant
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1556080458627	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.5hNh3lHJOBUm"
+1556080458857	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556080458857	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556080458857	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556080460640	Marionette	INFO	Listening on port 46859
+1556080460732	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://music.taihe.com/artist/7994?pst=sug, line 1895: SyntaxError: 08 is not a legal ECMA-262 octal constant
+[Parent 32046, Gecko_IOThread] WARNING: pipe error (86): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 32046, Gecko_IOThread] WARNING: pipe error (80): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1556080469603	Marionette	INFO	Stopped listening on port 46859
+[Parent 26066, Gecko_IOThread] WARNING: pipe error (80): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 26066, Gecko_IOThread] WARNING: pipe error (81): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1556080472779	Marionette	INFO	Stopped listening on port 42635
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 27516, Gecko_IOThread] WARNING: pipe error (80): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1556080476074	Marionette	INFO	Stopped listening on port 37983
+[Parent 31529, Gecko_IOThread] WARNING: pipe error (80): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 31529, Gecko_IOThread] WARNING: pipe error (66): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1556080478091	Marionette	INFO	Stopped listening on port 35349
+1556080490992	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.NMZ6NTP5xQ5y"
+1556080491239	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556080491240	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556080491240	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556080493215	Marionette	INFO	Listening on port 41977
+1556080493303	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://music.taihe.com/artist/7994?pst=sug, line 1895: SyntaxError: 08 is not a legal ECMA-262 octal constant
+[Parent 32402, Gecko_IOThread] WARNING: pipe error (80): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 32402, Gecko_IOThread] WARNING: pipe error (94): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1556080499933	Marionette	INFO	Stopped listening on port 41977
+1556080596382	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.krZD6rz7M2Ip"
+1556080596631	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556080596631	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556080596631	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556080598391	Marionette	INFO	Listening on port 44291
+1556080598494	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://music.taihe.com/artist/7994?pst=sug, line 1895: SyntaxError: 08 is not a legal ECMA-262 octal constant
+[Parent 315, Gecko_IOThread] WARNING: pipe error (80): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 315, Gecko_IOThread] WARNING: pipe error (94): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1556080605041	Marionette	INFO	Stopped listening on port 44291
+1556081021850	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Q3fOtbl03JaF"
+1556081022093	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556081022093	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556081022093	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556081023994	Marionette	INFO	Listening on port 38435
+1556081024055	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://music.taihe.com/artist/7994?pst=sug, line 1895: SyntaxError: 08 is not a legal ECMA-262 octal constant
+1556081026413	Marionette	INFO	Stopped listening on port 38435
+1556081448561	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.4ru6GD5yJImQ"
+1556081448799	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556081448799	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556081448799	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556081450724	Marionette	INFO	Listening on port 39645
+1556081450769	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://music.taihe.com/artist/7994?pst=sug, line 1895: SyntaxError: 08 is not a legal ECMA-262 octal constant
+1556081454088	Marionette	INFO	Stopped listening on port 39645
+1556081508135	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.3YvMqTm4nkr5"
+1556081508373	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556081508373	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556081508373	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556081510301	Marionette	INFO	Listening on port 43917
+1556081510344	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://music.taihe.com/artist/7994?pst=sug, line 1895: SyntaxError: 08 is not a legal ECMA-262 octal constant
+[Parent 5114, Gecko_IOThread] WARNING: pipe error (80): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 5114, Gecko_IOThread] WARNING: pipe error (88): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1556081519404	Marionette	INFO	Stopped listening on port 43917
+1556081551562	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.vKXQTnCXsZjN"
+1556081551810	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556081551811	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556081551811	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556081553607	Marionette	INFO	Listening on port 38085
+1556081553668	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://music.taihe.com/artist/7994?pst=sug, line 1895: SyntaxError: 08 is not a legal ECMA-262 octal constant
+1556081558638	Marionette	INFO	Stopped listening on port 38085
+[Parent 5515, Gecko_IOThread] WARNING: pipe error (80): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1556084615024	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.xdseIDs9jMNc"
+1556084615265	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556084615265	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556084615265	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556084617210	Marionette	INFO	Listening on port 36997
+1556084617233	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://music.taihe.com/artist/7994?pst=sug, line 1895: SyntaxError: 09 is not a legal ECMA-262 octal constant
+1556084718512	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ZZRGbhaFgjea"
+1556084718760	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556084718760	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556084718760	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556084720606	Marionette	INFO	Listening on port 43175
+1556084720624	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://music.taihe.com/artist/7994?pst=sug, line 1895: SyntaxError: 09 is not a legal ECMA-262 octal constant
+1556084723045	Marionette	INFO	Stopped listening on port 43175
+[Parent 6953, Gecko_IOThread] WARNING: pipe error (80): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1556084747289	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.yfm8HH8EDbG9"
+1556084747535	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556084747535	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556084747536	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556084749250	Marionette	INFO	Listening on port 44955
+1556084749295	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://music.taihe.com/artist/7994?pst=sug, line 1895: SyntaxError: 09 is not a legal ECMA-262 octal constant
+[Parent 7289, Gecko_IOThread] WARNING: pipe error (80): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 7289, Gecko_IOThread] WARNING: pipe error (97): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1556084757636	Marionette	INFO	Stopped listening on port 44955
+[Parent 6584, Gecko_IOThread] WARNING: pipe error (80): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 6584, Gecko_IOThread] WARNING: pipe error (65): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1556084760273	Marionette	INFO	Stopped listening on port 36997
+1556084779176	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.SbPzUnWSD7zv"
+1556084779410	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556084779411	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556084779411	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556084781191	Marionette	INFO	Listening on port 42153
+1556084781282	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://music.taihe.com/artist/7994?pst=sug, line 1895: SyntaxError: 09 is not a legal ECMA-262 octal constant
+1556084786897	Marionette	INFO	Stopped listening on port 42153
+[Parent 7658, Gecko_IOThread] WARNING: pipe error (80): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1556084804882	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Xzbe9r0BnBpC"
+1556084805121	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556084805121	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556084805121	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556084806838	Marionette	INFO	Listening on port 46429
+1556084806894	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://music.taihe.com/artist/7994?pst=sug, line 1895: SyntaxError: 09 is not a legal ECMA-262 octal constant
+1556084811575	Marionette	INFO	Stopped listening on port 46429
+[Parent 8005, Gecko_IOThread] WARNING: pipe error (80): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1556084822631	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.aq3u7aM8wyLY"
+1556084822865	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556084822865	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556084822865	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556084824619	Marionette	INFO	Listening on port 44775
+1556084824638	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://music.taihe.com/artist/7994?pst=sug, line 1895: SyntaxError: 09 is not a legal ECMA-262 octal constant
+1556084826975	Marionette	INFO	Stopped listening on port 44775
+[Parent 8335, Gecko_IOThread] WARNING: pipe error (80): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 8335, Gecko_IOThread] WARNING: pipe error (114): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1556084872476	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.58jNMHtGBS55"
+1556084872727	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556084872728	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556084872728	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556084874528	Marionette	INFO	Listening on port 42411
+1556084874597	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://music.taihe.com/artist/7994?pst=sug, line 1895: SyntaxError: 09 is not a legal ECMA-262 octal constant
+[Parent 8677, Gecko_IOThread] WARNING: pipe error (80): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 8677, Gecko_IOThread] WARNING: pipe error (97): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1556084884437	Marionette	INFO	Stopped listening on port 42411
+1556084982152	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.g0rpx13qEMmj"
+1556084982414	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556084982414	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556084982414	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556084984130	Marionette	INFO	Listening on port 34377
+1556084984159	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://music.taihe.com/artist/7994?pst=sug, line 1895: SyntaxError: 09 is not a legal ECMA-262 octal constant
+1556084988403	Marionette	INFO	Stopped listening on port 34377
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 9230, Chrome_ChildThread] WARNING: pipe error: 断开的管道: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 9230, Chrome_ChildThread] WARNING: pipe error (3): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1556085020955	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.SdihB8Fh2rkP"
+1556085021213	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556085021213	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556085021213	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556085023111	Marionette	INFO	Listening on port 39193
+1556085023161	Marionette	WARN	TLS certificate errors will be ignored for this session
+1556085025708	Marionette	INFO	Stopped listening on port 39193
+1556085093801	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.sdM443yd24cI"
+1556085094034	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556085094034	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556085094034	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556085095848	Marionette	INFO	Listening on port 37745
+1556085095907	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 9800, Gecko_IOThread] WARNING: pipe error (80): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 9800, Gecko_IOThread] WARNING: pipe error (97): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1556085100933	Marionette	INFO	Stopped listening on port 37745
+1556085148603	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.rvT0JHCizctO"
+1556085148847	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556085148847	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556085148848	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556085150657	Marionette	INFO	Listening on port 44931
+1556085150709	Marionette	WARN	TLS certificate errors will be ignored for this session
+1556085154273	Marionette	INFO	Stopped listening on port 44931
+1556085192318	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Nn3IJPtSIm3H"
+1556085192547	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556085192547	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556085192547	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556085194557	Marionette	INFO	Listening on port 37397
+1556085194624	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://music.taihe.com/artist/7994?pst=sug, line 1895: SyntaxError: 09 is not a legal ECMA-262 octal constant
+1556085203418	Marionette	INFO	Stopped listening on port 37397
+[Parent 10511, Gecko_IOThread] WARNING: pipe error (80): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1556085355811	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.r2pvKMSzgWIn"
+1556085356046	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556085356046	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556085356046	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556085357937	Marionette	INFO	Listening on port 34803
+1556085358016	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://music.taihe.com/artist/7994?pst=sug, line 1895: SyntaxError: 09 is not a legal ECMA-262 octal constant
+1556085360497	Marionette	INFO	Stopped listening on port 34803
+[Parent 10924, Gecko_IOThread] WARNING: pipe error (80): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1556085402119	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.YVOlkrVZMlQN"
+1556085402362	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556085402362	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556085402362	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556085404399	Marionette	INFO	Listening on port 44633
+1556085404426	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://music.taihe.com/artist/7994?pst=sug, line 1895: SyntaxError: 09 is not a legal ECMA-262 octal constant
+1556085418522	Marionette	INFO	Stopped listening on port 44633
+[Parent 11269, Gecko_IOThread] WARNING: pipe error (80): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1556085526968	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.JZjkrTB6wuZi"
+1556085527213	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556085527213	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556085527213	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556085529134	Marionette	INFO	Listening on port 45821
+1556085529176	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://music.taihe.com/artist/7994?pst=sug, line 1895: SyntaxError: 09 is not a legal ECMA-262 octal constant
+1556085554287	Marionette	INFO	Stopped listening on port 45821
+[Parent 12075, Gecko_IOThread] WARNING: pipe error (80): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1556085718811	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.r9zNZomHvhPc"
+1556085719057	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556085719057	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556085719057	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556085720931	Marionette	INFO	Listening on port 42813
+1556085721021	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://music.taihe.com/artist/7994?pst=sug, line 1895: SyntaxError: 09 is not a legal ECMA-262 octal constant
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1556085983877	Marionette	INFO	Stopped listening on port 42813
+[Parent 12926, Gecko_IOThread] WARNING: pipe error (83): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1556086037850	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.q8p3OHqe1iF9"
+1556086038081	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556086038081	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556086038081	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556086039811	Marionette	INFO	Listening on port 38775
+1556086039855	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://music.taihe.com/artist/7994?pst=sug, line 1895: SyntaxError: 09 is not a legal ECMA-262 octal constant
+JavaScript warning: http://music.taihe.com/artist/7994?pst=sug, line 1896: SyntaxError: 08 is not a legal ECMA-262 octal constant
+[Parent 13380, Gecko_IOThread] WARNING: pipe error (97): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 13380, Gecko_IOThread] WARNING: pipe error (80): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1556086048777	Marionette	INFO	Stopped listening on port 38775
+1556086058157	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.3CFgeRKmRfmr"
+1556086058389	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556086058389	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556086058389	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556086060139	Marionette	INFO	Listening on port 44117
+1556086060167	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://music.taihe.com/artist/7994?pst=sug, line 1895: SyntaxError: 09 is not a legal ECMA-262 octal constant
+JavaScript warning: http://music.taihe.com/artist/7994?pst=sug, line 1896: SyntaxError: 08 is not a legal ECMA-262 octal constant
+1556086249156	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.cye7LOYr4Hir"
+1556086249391	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556086249391	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556086249391	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556086251139	Marionette	INFO	Listening on port 40041
+1556086251161	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://music.taihe.com/artist/7994?pst=sug, line 1895: SyntaxError: 09 is not a legal ECMA-262 octal constant
+JavaScript warning: http://music.taihe.com/artist/7994?pst=sug, line 1896: SyntaxError: 08 is not a legal ECMA-262 octal constant
+1556086254801	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+1556086265919	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+1556086276727	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+console.error: BroadcastService: 
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1556086298066	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+1556086308888	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+1556086330150	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+1556086341001	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+1556086351843	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+1556086373177	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+1556086383999	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+1556086405194	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+1556086416008	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+[Parent 14165, Gecko_IOThread] WARNING: pipe error (80): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 14165, Gecko_IOThread] WARNING: pipe error (88): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1556086441141	Marionette	INFO	Stopped listening on port 40041
+1556086461193	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.46XMmYQBXFXG"
+1556086461425	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556086461425	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556086461425	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556086463155	Marionette	INFO	Listening on port 44085
+1556086463199	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://music.taihe.com/artist/7994?pst=sug, line 1895: SyntaxError: 08 is not a legal ECMA-262 octal constant
+JavaScript warning: http://music.taihe.com/artist/7994?pst=sug, line 1896: SyntaxError: 08 is not a legal ECMA-262 octal constant
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1556086600037	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.mm4Dd76W58Lp"
+1556086600294	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556086600294	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556086600294	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556086602053	Marionette	INFO	Listening on port 45267
+1556086602146	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://music.taihe.com/artist/7994?pst=sug, line 1895: SyntaxError: 08 is not a legal ECMA-262 octal constant
+[Parent 14958, Gecko_IOThread] WARNING: pipe error (80): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 14958, Gecko_IOThread] WARNING: pipe error (99): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1556086608359	Marionette	INFO	Stopped listening on port 45267
+1556086734301	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ETamjCp1AH3h"
+1556086734532	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556086734533	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556086734533	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556086736339	Marionette	INFO	Listening on port 37677
+1556086736407	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://music.taihe.com/artist/7994?pst=sug, line 1895: SyntaxError: 08 is not a legal ECMA-262 octal constant
+1556086772807	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.5ePWrZpEhDbn"
+1556086773037	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556086773038	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556086773038	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556086775029	Marionette	INFO	Listening on port 41017
+1556086775113	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://music.taihe.com/artist/7994?pst=sug, line 1895: SyntaxError: 08 is not a legal ECMA-262 octal constant
+1556086835991	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.WW6fPSwK6bLi"
+1556086836224	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556086836224	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556086836224	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556086838007	Marionette	INFO	Listening on port 44797
+1556086838097	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://music.taihe.com/artist/7994?pst=sug, line 1895: SyntaxError: 08 is not a legal ECMA-262 octal constant
+1556086880343	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.fnJYj2BM1g54"
+1556086880670	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556086880670	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556086880670	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556086882969	Marionette	INFO	Listening on port 43251
+1556086883057	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://music.taihe.com/artist/7994?pst=sug, line 1895: SyntaxError: 08 is not a legal ECMA-262 octal constant
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1556087145644	Marionette	INFO	Stopped listening on port 43251
+[Parent 16837, Gecko_IOThread] WARNING: pipe error (80): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1556087630924	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.GwN625tjyizg"
+1556087631755	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556087631755	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556087631755	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556087633665	Marionette	INFO	Listening on port 37351
+1556087633730	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 23: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+JavaScript error: http://static2.qianqian.com/web/static/j/G3PIvfe1.js, line 6: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: http://cpro.baidustatic.com/cpro/ui/c.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+console.error: PushService: 
+  clearOriginData: Error clearing origin data:
+  AbortError
+console.error: PushService: 
+  stateChangeProcessEnqueue: Error transitioning state
+  AbortError
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBFactory::Msg_PBackgroundIDBFactoryRequestConstructor Value error: message was deserialized, but contained an illegal value
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBFactory::Msg_PBackgroundIDBFactoryRequestConstructor Value error: message was deserialized, but contained an illegal value
+
+1556087635513	Marionette	INFO	Stopped listening on port 37351
+[Parent 13712, Gecko_IOThread] WARNING: pipe error (80): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 13712, Gecko_IOThread] WARNING: pipe error (65): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1556087649571	Marionette	INFO	Stopped listening on port 44117
+[Parent 15825, Gecko_IOThread] WARNING: pipe error (80): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 15825, Gecko_IOThread] WARNING: pipe error (97): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1556087651514	Marionette	INFO	Stopped listening on port 37677
+[Parent 16517, Gecko_IOThread] WARNING: pipe error (80): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 16517, Gecko_IOThread] WARNING: pipe error (66): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 16517, Gecko_IOThread] WARNING: pipe error (107): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1556087655233	Marionette	INFO	Stopped listening on port 44797
+[Parent 16167, Gecko_IOThread] WARNING: pipe error (94): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 16167, Gecko_IOThread] WARNING: pipe error (80): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1556087657662	Marionette	INFO	Stopped listening on port 41017
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1556087662062	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.0UeyZdb7W1hQ"
+1556087662293	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556087662293	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556087662293	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556087664052	Marionette	INFO	Listening on port 37715
+1556087664069	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://music.taihe.com/artist/7994?pst=sug, line 1895: SyntaxError: 08 is not a legal ECMA-262 octal constant
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1556087925626	Marionette	INFO	Stopped listening on port 37715
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 19076, Chrome_ChildThread] WARNING: pipe error: 断开的管道: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 19076, Chrome_ChildThread] WARNING: pipe error (3): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 18894, Gecko_IOThread] WARNING: pipe error (80): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1556089042597	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.gDfy6nWUoUwl"
+1556089042831	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556089042831	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556089042831	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556089044537	Marionette	INFO	Listening on port 35579
+1556089044609	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://music.taihe.com/artist/7994?pst=sug, line 1895: SyntaxError: 08 is not a legal ECMA-262 octal constant
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1556089305646	Marionette	INFO	Stopped listening on port 35579
+[Parent 23104, Gecko_IOThread] WARNING: pipe error (80): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1556194484072	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.gpwlTldo0xGL"
+1556194484706	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556194484706	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556194484706	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556194487198	Marionette	INFO	Listening on port 46351
+1556194487328	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://music.taihe.com/artist/1052?pst=sug, line 1901: SyntaxError: 08 is not a legal ECMA-262 octal constant
+[Parent 7014, Gecko_IOThread] WARNING: pipe error (118): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 7014, Gecko_IOThread] WARNING: pipe error (80): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1556194501421	Marionette	INFO	Stopped listening on port 46351
+1556194529838	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.b24BLxel2C0D"
+1556194530092	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556194530092	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556194530092	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556194531874	Marionette	INFO	Listening on port 39897
+1556194531943	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://music.taihe.com/artist/1052?pst=sug, line 1901: SyntaxError: 09 is not a legal ECMA-262 octal constant
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1556194585118	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.JPSPESBYz9X4"
+1556194585484	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556194585484	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556194585484	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556194587254	Marionette	INFO	Listening on port 43147
+1556194587323	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://music.taihe.com/artist/1052?pst=sug, line 1901: SyntaxError: 09 is not a legal ECMA-262 octal constant
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1556194666387	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ytpG3Zp3JJmV"
+1556194666617	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556194666617	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556194666617	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556194668302	Marionette	INFO	Listening on port 36119
+1556194668392	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1556194856946	Marionette	INFO	Stopped listening on port 36119
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 8179, Gecko_IOThread] WARNING: pipe error (80): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1556194968176	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.CHOlR8FaOlcI"
+1556194968416	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556194968417	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556194968417	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556194970400	Marionette	INFO	Listening on port 45507
+1556194970486	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1556195158646	Marionette	INFO	Stopped listening on port 45507
+[Parent 8638, Gecko_IOThread] WARNING: pipe error (80): 连接被对方重设: file /build/firefox-i2nBcb/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
